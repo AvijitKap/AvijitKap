@@ -1,26 +1,55 @@
-## About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3498db&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Avijit+Kapoor+👋;Aspiring+Data+Analyst;AI+Enthusiast;Environmental+Advocate;Open+Source+Contributor" />
+</h1>
 
-👋 **Hey there! I'm Avijit Kapoor**  
-🚀 **Aspiring Data Analyst & AI Enthusiast | C++ Programmer | Environmental Advocate**  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif" width="200"/>
+</p>
 
-💡 Passionate about **data analysis, artificial intelligence, and problem-solving**  
-📊 Currently exploring **Google Data Analytics** and learning AI concepts like **State Space Search, BFS, DFS, A*, Constraint Satisfaction, and more**  
-💻 Love coding in **C++**, working with **algorithms**, and solving complex problems  
-🌱 Actively involved in **environmental initiatives**, including **afforestation & waste management**  
-🌍 Contributed to **NGO projects** promoting a **clean and green environment**  
+---
 
-### **🌟 What I’m Working On**  
-🔹 **Building AI models** and implementing **search techniques**  
-🔹 **Data analysis projects** using Python, SQL, and visualization tools  
-🔹 **Optimizing C++ algorithms** (without using `set` 😆)  
-🔹 **File-sharing web apps** with **Flask & JavaScript**  
+### **🚀 About Me**
+- 🌱 **Learning:** Data Analysis, AI, Python, C++
+- 🔍 **Interested in:** Data Science, Machine Learning, Open Source
+- 🌿 **Passionate about:** Environmental Conservation, Green Projects
 
-### **🚀 My Tech Stack**  
-- **Languages**: C++, Python, SQL  
-- **Web Dev**: Flask, JavaScript, Bootstrap  
-- **Data & AI**: Pandas, NumPy, Matplotlib, AI Algorithms  
-- **Tools**: Git, GitHub, Jupyter Notebook  
+---
 
-### **📫 Connect with Me!**  
-🌍 Always open to collaborating on **tech & environmental projects**  
-💬 Let’s talk about **AI, problem-solving, or making the world greener**  
+### **💻 Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/DataScience-pink.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+---
+
+### **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+
+### **🎯 GitHub Contribution Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" />
+</p>
+
+---
+
+### **🔗 Connect with Me**
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/github/followers/YourGitHubUsername?style=social"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+</p>
+
+---
+
+### **📌 Visitor Count**
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitor Count"/>
+</p>
