@@ -34,12 +34,6 @@
 ---
 
 
-### **🎯 GitHub Contribution Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" />
-</p>
-
----
 
 ### **🔗 Connect with Me**
 <p align="center">
@@ -47,9 +41,3 @@
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
----
-
-### **📌 Visitor Count**
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitor Count"/>
-</p>
