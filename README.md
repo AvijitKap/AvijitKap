@@ -25,15 +25,6 @@
 
 ---
 
-### **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" width="400"/>
-</p>
-
----
-
-
 
 ### **🔗 Connect with Me**
 <p align="center">
